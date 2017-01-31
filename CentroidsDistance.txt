@@ -1,0 +1,200 @@
+000.pgm 	 (111 , 156) 	 No Motion Centroid 	 No Motion Diff 
+001.pgm 	 (111 , 156) 	 No Motion Centroid 	 No Motion Difference
+002.pgm 	 (111 , 156) 	 No Motion Centroid 	 No Motion Difference
+003.pgm 	 (111 , 156) 	 No Motion Centroid 	 No Motion Difference
+004.pgm 	 (111 , 156) 	 No Motion Centroid 	 No Motion Difference
+005.pgm 	 (111 , 156) 	 Motion Centroid 	 No Motion Difference
+006.pgm 	 (111 , 157) 	 No Motion Centroid 	 No Motion Difference
+007.pgm 	 (111 , 157) 	 No Motion Centroid 	 No Motion Difference
+008.pgm 	 (111 , 157) 	 No Motion Centroid 	 No Motion Difference
+009.pgm 	 (111 , 157) 	 No Motion Centroid 	 No Motion Difference
+010.pgm 	 (111 , 157) 	 No Motion Centroid 	 No Motion Difference
+011.pgm 	 (111 , 157) 	 No Motion Centroid 	 No Motion Difference
+012.pgm 	 (111 , 157) 	 No Motion Centroid 	 No Motion Difference
+013.pgm 	 (111 , 157) 	 No Motion Centroid 	 No Motion Difference
+014.pgm 	 (111 , 157) 	 No Motion Centroid 	 No Motion Difference
+015.pgm 	 (111 , 157) 	 No Motion Centroid 	 No Motion Difference
+016.pgm 	 (111 , 157) 	 No Motion Centroid 	 No Motion Difference
+017.pgm 	 (111 , 157) 	 No Motion Centroid 	 No Motion Difference
+018.pgm 	 (111 , 157) 	 No Motion Centroid 	 No Motion Difference
+019.pgm 	 (111 , 157) 	 No Motion Centroid 	 Motion Difference
+020.pgm 	 (111 , 157) 	 Motion Centroid 	 Motion Difference
+021.pgm 	 (111 , 158) 	 Motion Centroid 	 Motion Difference
+022.pgm 	 (112 , 160) 	 Motion Centroid 	 Motion Difference
+023.pgm 	 (113 , 162) 	 Motion Centroid 	 Motion Difference
+024.pgm 	 (113 , 164) 	 Motion Centroid 	 Motion Difference
+025.pgm 	 (112 , 165) 	 Motion Centroid 	 Motion Difference
+026.pgm 	 (112 , 164) 	 Motion Centroid 	 Motion Difference
+027.pgm 	 (111 , 163) 	 Motion Centroid 	 Motion Difference
+028.pgm 	 (110 , 162) 	 Motion Centroid 	 Motion Difference
+029.pgm 	 (110 , 161) 	 Motion Centroid 	 Motion Difference
+030.pgm 	 (110 , 160) 	 Motion Centroid 	 Motion Difference
+031.pgm 	 (109 , 160) 	 Motion Centroid 	 Motion Difference
+032.pgm 	 (109 , 159) 	 No Motion Centroid 	 Motion Difference
+033.pgm 	 (109 , 159) 	 Motion Centroid 	 Motion Difference
+034.pgm 	 (108 , 159) 	 No Motion Centroid 	 Motion Difference
+035.pgm 	 (108 , 159) 	 No Motion Centroid 	 Motion Difference
+036.pgm 	 (108 , 159) 	 No Motion Centroid 	 Motion Difference
+037.pgm 	 (108 , 159) 	 No Motion Centroid 	 Motion Difference
+038.pgm 	 (108 , 159) 	 Motion Centroid 	 Motion Difference
+039.pgm 	 (108 , 160) 	 No Motion Centroid 	 Motion Difference
+040.pgm 	 (108 , 160) 	 No Motion Centroid 	 Motion Difference
+041.pgm 	 (108 , 160) 	 No Motion Centroid 	 Motion Difference
+042.pgm 	 (108 , 160) 	 No Motion Centroid 	 Motion Difference
+043.pgm 	 (108 , 160) 	 No Motion Centroid 	 Motion Difference
+044.pgm 	 (108 , 160) 	 Motion Centroid 	 Motion Difference
+045.pgm 	 (108 , 161) 	 No Motion Centroid 	 Motion Difference
+046.pgm 	 (108 , 161) 	 No Motion Centroid 	 Motion Difference
+047.pgm 	 (108 , 161) 	 No Motion Centroid 	 Motion Difference
+048.pgm 	 (108 , 161) 	 No Motion Centroid 	 Motion Difference
+049.pgm 	 (108 , 161) 	 No Motion Centroid 	 Motion Difference
+050.pgm 	 (108 , 161) 	 No Motion Centroid 	 Motion Difference
+051.pgm 	 (108 , 161) 	 No Motion Centroid 	 Motion Difference
+052.pgm 	 (108 , 161) 	 Motion Centroid 	 Motion Difference
+053.pgm 	 (109 , 162) 	 Motion Centroid 	 Motion Difference
+054.pgm 	 (109 , 161) 	 Motion Centroid 	 Motion Difference
+055.pgm 	 (109 , 162) 	 Motion Centroid 	 Motion Difference
+056.pgm 	 (109 , 161) 	 No Motion Centroid 	 Motion Difference
+057.pgm 	 (109 , 161) 	 No Motion Centroid 	 No Motion Difference
+058.pgm 	 (109 , 161) 	 No Motion Centroid 	 No Motion Difference
+059.pgm 	 (109 , 161) 	 Motion Centroid 	 No Motion Difference
+060.pgm 	 (109 , 162) 	 Motion Centroid 	 No Motion Difference
+061.pgm 	 (109 , 161) 	 No Motion Centroid 	 Motion Difference
+062.pgm 	 (109 , 161) 	 Motion Centroid 	 No Motion Difference
+063.pgm 	 (109 , 162) 	 Motion Centroid 	 No Motion Difference
+064.pgm 	 (109 , 161) 	 No Motion Centroid 	 No Motion Difference
+065.pgm 	 (109 , 161) 	 No Motion Centroid 	 No Motion Difference
+066.pgm 	 (109 , 161) 	 No Motion Centroid 	 No Motion Difference
+067.pgm 	 (109 , 161) 	 No Motion Centroid 	 No Motion Difference
+068.pgm 	 (109 , 161) 	 No Motion Centroid 	 No Motion Difference
+069.pgm 	 (109 , 161) 	 No Motion Centroid 	 No Motion Difference
+070.pgm 	 (109 , 161) 	 No Motion Centroid 	 No Motion Difference
+071.pgm 	 (109 , 161) 	 No Motion Centroid 	 Motion Difference
+072.pgm 	 (109 , 161) 	 No Motion Centroid 	 Motion Difference
+073.pgm 	 (109 , 161) 	 Motion Centroid 	 Motion Difference
+074.pgm 	 (108 , 161) 	 No Motion Centroid 	 Motion Difference
+075.pgm 	 (108 , 161) 	 Motion Centroid 	 Motion Difference
+076.pgm 	 (109 , 161) 	 No Motion Centroid 	 Motion Difference
+077.pgm 	 (109 , 161) 	 No Motion Centroid 	 Motion Difference
+078.pgm 	 (109 , 161) 	 No Motion Centroid 	 Motion Difference
+079.pgm 	 (109 , 161) 	 No Motion Centroid 	 Motion Difference
+080.pgm 	 (109 , 161) 	 No Motion Centroid 	 Motion Difference
+081.pgm 	 (109 , 161) 	 No Motion Centroid 	 Motion Difference
+082.pgm 	 (109 , 161) 	 No Motion Centroid 	 Motion Difference
+083.pgm 	 (109 , 161) 	 No Motion Centroid 	 Motion Difference
+084.pgm 	 (109 , 161) 	 No Motion Centroid 	 Motion Difference
+085.pgm 	 (109 , 161) 	 Motion Centroid 	 Motion Difference
+086.pgm 	 (109 , 162) 	 No Motion Centroid 	 Motion Difference
+087.pgm 	 (109 , 162) 	 No Motion Centroid 	 Motion Difference
+088.pgm 	 (109 , 162) 	 No Motion Centroid 	 Motion Difference
+089.pgm 	 (109 , 162) 	 No Motion Centroid 	 Motion Difference
+090.pgm 	 (109 , 162) 	 No Motion Centroid 	 Motion Difference
+091.pgm 	 (109 , 162) 	 No Motion Centroid 	 Motion Difference
+092.pgm 	 (109 , 162) 	 Motion Centroid 	 Motion Difference
+093.pgm 	 (109 , 163) 	 No Motion Centroid 	 Motion Difference
+094.pgm 	 (109 , 163) 	 Motion Centroid 	 Motion Difference
+095.pgm 	 (110 , 163) 	 No Motion Centroid 	 Motion Difference
+096.pgm 	 (110 , 163) 	 No Motion Centroid 	 Motion Difference
+097.pgm 	 (110 , 163) 	 Motion Centroid 	 Motion Difference
+098.pgm 	 (110 , 164) 	 No Motion Centroid 	 Motion Difference
+099.pgm 	 (110 , 164) 	 No Motion Centroid 	 Motion Difference
+100.pgm 	 (110 , 164) 	 No Motion Centroid 	 Motion Difference
+101.pgm 	 (110 , 164) 	 No Motion Centroid 	 Motion Difference
+102.pgm 	 (110 , 164) 	 Motion Centroid 	 Motion Difference
+103.pgm 	 (111 , 164) 	 No Motion Centroid 	 Motion Difference
+104.pgm 	 (111 , 164) 	 No Motion Centroid 	 Motion Difference
+105.pgm 	 (111 , 164) 	 No Motion Centroid 	 Motion Difference
+106.pgm 	 (111 , 164) 	 Motion Centroid 	 Motion Difference
+107.pgm 	 (111 , 165) 	 No Motion Centroid 	 Motion Difference
+108.pgm 	 (111 , 165) 	 No Motion Centroid 	 Motion Difference
+109.pgm 	 (111 , 165) 	 No Motion Centroid 	 Motion Difference
+110.pgm 	 (111 , 165) 	 No Motion Centroid 	 Motion Difference
+111.pgm 	 (111 , 165) 	 No Motion Centroid 	 Motion Difference
+112.pgm 	 (111 , 165) 	 Motion Centroid 	 Motion Difference
+113.pgm 	 (112 , 165) 	 No Motion Centroid 	 Motion Difference
+114.pgm 	 (112 , 165) 	 Motion Centroid 	 Motion Difference
+115.pgm 	 (112 , 166) 	 No Motion Centroid 	 Motion Difference
+116.pgm 	 (112 , 166) 	 Motion Centroid 	 Motion Difference
+117.pgm 	 (113 , 166) 	 No Motion Centroid 	 Motion Difference
+118.pgm 	 (113 , 166) 	 No Motion Centroid 	 Motion Difference
+119.pgm 	 (113 , 166) 	 No Motion Centroid 	 Motion Difference
+120.pgm 	 (113 , 166) 	 Motion Centroid 	 Motion Difference
+121.pgm 	 (114 , 166) 	 No Motion Centroid 	 Motion Difference
+122.pgm 	 (114 , 166) 	 No Motion Centroid 	 Motion Difference
+123.pgm 	 (114 , 166) 	 Motion Centroid 	 Motion Difference
+124.pgm 	 (115 , 166) 	 No Motion Centroid 	 Motion Difference
+125.pgm 	 (115 , 166) 	 No Motion Centroid 	 Motion Difference
+126.pgm 	 (115 , 166) 	 No Motion Centroid 	 Motion Difference
+127.pgm 	 (115 , 166) 	 No Motion Centroid 	 Motion Difference
+128.pgm 	 (115 , 166) 	 No Motion Centroid 	 Motion Difference
+129.pgm 	 (115 , 166) 	 No Motion Centroid 	 Motion Difference
+130.pgm 	 (115 , 166) 	 No Motion Centroid 	 Motion Difference
+131.pgm 	 (115 , 166) 	 Motion Centroid 	 Motion Difference
+132.pgm 	 (116 , 166) 	 No Motion Centroid 	 Motion Difference
+133.pgm 	 (116 , 166) 	 No Motion Centroid 	 Motion Difference
+134.pgm 	 (116 , 166) 	 No Motion Centroid 	 Motion Difference
+135.pgm 	 (116 , 166) 	 No Motion Centroid 	 Motion Difference
+136.pgm 	 (116 , 166) 	 No Motion Centroid 	 Motion Difference
+137.pgm 	 (116 , 166) 	 No Motion Centroid 	 Motion Difference
+138.pgm 	 (116 , 166) 	 No Motion Centroid 	 Motion Difference
+139.pgm 	 (116 , 166) 	 No Motion Centroid 	 Motion Difference
+140.pgm 	 (116 , 166) 	 No Motion Centroid 	 Motion Difference
+141.pgm 	 (116 , 166) 	 No Motion Centroid 	 Motion Difference
+142.pgm 	 (116 , 166) 	 Motion Centroid 	 Motion Difference
+143.pgm 	 (116 , 165) 	 No Motion Centroid 	 Motion Difference
+144.pgm 	 (116 , 165) 	 No Motion Centroid 	 Motion Difference
+145.pgm 	 (116 , 165) 	 Motion Centroid 	 Motion Difference
+146.pgm 	 (115 , 165) 	 No Motion Centroid 	 Motion Difference
+147.pgm 	 (115 , 165) 	 Motion Centroid 	 Motion Difference
+148.pgm 	 (115 , 164) 	 No Motion Centroid 	 Motion Difference
+149.pgm 	 (115 , 164) 	 No Motion Centroid 	 Motion Difference
+150.pgm 	 (115 , 164) 	 No Motion Centroid 	 Motion Difference
+151.pgm 	 (115 , 164) 	 Motion Centroid 	 Motion Difference
+152.pgm 	 (115 , 163) 	 No Motion Centroid 	 Motion Difference
+153.pgm 	 (115 , 163) 	 No Motion Centroid 	 Motion Difference
+154.pgm 	 (115 , 163) 	 No Motion Centroid 	 Motion Difference
+155.pgm 	 (115 , 163) 	 No Motion Centroid 	 Motion Difference
+156.pgm 	 (115 , 163) 	 No Motion Centroid 	 Motion Difference
+157.pgm 	 (115 , 163) 	 No Motion Centroid 	 Motion Difference
+158.pgm 	 (115 , 163) 	 Motion Centroid 	 Motion Difference
+159.pgm 	 (116 , 163) 	 No Motion Centroid 	 Motion Difference
+160.pgm 	 (116 , 163) 	 No Motion Centroid 	 Motion Difference
+161.pgm 	 (116 , 163) 	 No Motion Centroid 	 Motion Difference
+162.pgm 	 (116 , 163) 	 No Motion Centroid 	 Motion Difference
+163.pgm 	 (116 , 163) 	 No Motion Centroid 	 Motion Difference
+164.pgm 	 (116 , 163) 	 No Motion Centroid 	 Motion Difference
+165.pgm 	 (116 , 163) 	 No Motion Centroid 	 Motion Difference
+166.pgm 	 (116 , 163) 	 No Motion Centroid 	 Motion Difference
+167.pgm 	 (116 , 163) 	 No Motion Centroid 	 Motion Difference
+168.pgm 	 (116 , 163) 	 No Motion Centroid 	 Motion Difference
+169.pgm 	 (116 , 163) 	 No Motion Centroid 	 Motion Difference
+170.pgm 	 (116 , 163) 	 No Motion Centroid 	 Motion Difference
+171.pgm 	 (116 , 163) 	 No Motion Centroid 	 Motion Difference
+172.pgm 	 (116 , 163) 	 Motion Centroid 	 Motion Difference
+173.pgm 	 (115 , 163) 	 Motion Centroid 	 Motion Difference
+174.pgm 	 (115 , 162) 	 Motion Centroid 	 Motion Difference
+175.pgm 	 (114 , 162) 	 Motion Centroid 	 Motion Difference
+176.pgm 	 (114 , 161) 	 Motion Centroid 	 Motion Difference
+177.pgm 	 (113 , 161) 	 Motion Centroid 	 Motion Difference
+178.pgm 	 (112 , 161) 	 Motion Centroid 	 Motion Difference
+179.pgm 	 (112 , 160) 	 Motion Centroid 	 Motion Difference
+180.pgm 	 (111 , 160) 	 No Motion Centroid 	 Motion Difference
+181.pgm 	 (111 , 160) 	 No Motion Centroid 	 Motion Difference
+182.pgm 	 (111 , 160) 	 No Motion Centroid 	 Motion Difference
+183.pgm 	 (111 , 160) 	 No Motion Centroid 	 Motion Difference
+184.pgm 	 (111 , 160) 	 No Motion Centroid 	 Motion Difference
+185.pgm 	 (111 , 160) 	 No Motion Centroid 	 Motion Difference
+186.pgm 	 (111 , 160) 	 No Motion Centroid 	 Motion Difference
+187.pgm 	 (111 , 160) 	 No Motion Centroid 	 Motion Difference
+188.pgm 	 (111 , 160) 	 No Motion Centroid 	 Motion Difference
+189.pgm 	 (111 , 160) 	 No Motion Centroid 	 No Motion Difference
+190.pgm 	 (111 , 160) 	 No Motion Centroid 	 No Motion Difference
+191.pgm 	 (111 , 160) 	 No Motion Centroid 	 No Motion Difference
+192.pgm 	 (111 , 160) 	 No Motion Centroid 	 No Motion Difference
+193.pgm 	 (111 , 160) 	 No Motion Centroid 	 No Motion Difference
+194.pgm 	 (111 , 160) 	 No Motion Centroid 	 No Motion Difference
+195.pgm 	 (111 , 160) 	 No Motion Centroid 	 No Motion Difference
+196.pgm 	 (111 , 160) 	 No Motion Centroid 	 No Motion Difference
+197.pgm 	 (111 , 160) 	 No Motion Centroid 	 No Motion Difference
+198.pgm 	 (111 , 160) 	 No Motion Centroid 	 No Motion Difference
+199.pgm 	 (111 , 160) 	 No Motion Centroid 	 No Motion Difference
